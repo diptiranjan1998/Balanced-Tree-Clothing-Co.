@@ -1,1 +1,1 @@
-# Balanced-Tree-Clothing-Co.
+# Balanced Tree Clothing Co.
