@@ -41,6 +41,6 @@ Each of the following case study questions provides Danny with some valuable bus
     * What is the most common combination of at least 1 quantity of any 3 products in a 1 single transaction?
 
 
-### Run this [SQL Script](https://drive.google.com/file/d/15vsxI9QLwAFgFQl_FsTM8Qx6k2nUGMQk/view?usp=drive_link) to get the comprehensive answers to above case study questions.
+### Run this [SQL Script](https://drive.google.com/file/d/15vsxI9QLwAFgFQl_FsTM8Qx6k2nUGMQk/view?usp=drive_link) to get the comprehensive answers to the above case study questions.
 
 ## THANK YOU
