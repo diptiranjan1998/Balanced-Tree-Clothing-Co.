@@ -12,6 +12,9 @@ Danny provided the date of his restaurant that contains 3 following tables:
 
 2. **`sales:`** This table contains data about prod_id, qty, price, discount, member, txn_id and start_txn_time.
 
+![Screenshot 2024-06-03 133003](https://github.com/diptiranjan1998/Balanced-Tree-Clothing-Co./assets/126856016/88d074cd-011c-4798-a28a-e4066938c729)
+
+
 ## Case Studies
 Each of the following case study questions provides Danny with some valuable business insights:
 
